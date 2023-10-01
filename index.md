@@ -12,3 +12,7 @@ Initialized empty Git repository in Users/skills/Projects/Dev-nandan-s /.git/
 ``` javascript
 var myVar="king of pirates";
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
